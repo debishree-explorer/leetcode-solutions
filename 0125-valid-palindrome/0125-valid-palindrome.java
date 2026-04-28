@@ -6,10 +6,10 @@ class Solution {
         String rev="";
 
          for(int i=0;i<s.length();i++){
-        if( (int)s.charAt(i)>=0 && (int)s.charAt(i)<=47 || (int)s.charAt(i)>=58 && (int)s.charAt(i)<=64 || (int)s.charAt(i)>=91 && (int)s.charAt(i)<=96 || (int)s.charAt(i)>=123 && (int)s.charAt(i)<=127) continue;
-        else{
-            rev=s.charAt(i)+rev;
+        if((s.charAt(i)>='a'&&s.charAt(i)<='z')||s.charAt(i)>='0'&&s.charAt(i)<='9'){
+
             alpha=alpha+s.charAt(i);
+            rev=s.charAt(i)+rev;
         }
          }
          if(alpha.equals(rev)) return true;
