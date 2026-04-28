@@ -14,8 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
