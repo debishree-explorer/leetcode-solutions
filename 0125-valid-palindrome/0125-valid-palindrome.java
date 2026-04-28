@@ -1,20 +1,31 @@
 class Solution {
-    public boolean isPalindrome(String str) {
+    public boolean isPalindrome(String s) {
 
-        String s=str.toLowerCase();
-        String alpha="";
-        String rev="";
+        int left = 0;
+        int right = s.length() - 1;
 
-         for(int i=0;i<s.length();i++){
-        if((s.charAt(i)>='a'&&s.charAt(i)<='z')||s.charAt(i)>='0'&&s.charAt(i)<='9'){
+        while (left < right) {
 
-            alpha=alpha+s.charAt(i);
-            rev=s.charAt(i)+rev;
+            // skip non-alphanumeric from left
+            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
+                left++;
+            }
+
+            // skip non-alphanumeric from right
+            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
+                right--;
+            }
+
+            // compare (case-insensitive)
+            if (Character.toLowerCase(s.charAt(left)) != 
+                Character.toLowerCase(s.charAt(right))) {
+                return false;
+            }
+
+            left++;
+            right--;
         }
-         }
-         if(alpha.equals(rev)) return true;
 
-         return false;
-
+        return true;
     }
 }
