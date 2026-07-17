@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
