@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/debishree-explorer/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
